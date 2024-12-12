@@ -1,0 +1,10 @@
+{
+  "name": "advanced-node.js-12.12.2024",
+  "version": "1.0.0",
+  "main": "01-callback-pattern.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
